@@ -1,0 +1,14 @@
+{
+  "name": "js-nuggets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ngadiono/js-nuggets.git",
+  "author": "Ngadiono CR <ngadiyono@qasir.id>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
